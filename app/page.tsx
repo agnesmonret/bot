@@ -60,7 +60,7 @@ export default async function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Discord className="h-8 w-8 group-hover:text-black" /> {/* Larger Discord icon */}
+            <Discord className="h-8 w-8 group-hover:text-black" style={{ fill: '#5865F2' }} /> {/* Larger Discord icon */}
             <p>Join our Discord</p>
           </a>
           <a
