@@ -1,7 +1,7 @@
 import Card from "@/components/home/card";
 import { DEPLOY_URL } from "@/lib/constants";
 import { Github, Twitter } from "@/components/shared/icons";
-import Discord from "@/components/shared/icons/Discord"; // Import the Discord icon
+import Discord from "@/components/shared/icons/discord"; // Import the Discord icon
 import WebVitals from "@/components/home/web-vitals";
 import ComponentGrid from "@/components/home/component-grid";
 import Image from "next/image";
